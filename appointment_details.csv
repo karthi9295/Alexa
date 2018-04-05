@@ -1,0 +1,11 @@
+patient_id,patient_name,age,appointment_detail,address,date
+1,Harry,43,General Checkup,NewYork,25/10/2017
+2,Daniel,32,General Checkup,NewYork,25/10/2017
+3,Sarah,25,Blood check up,California,25/10/2017
+4,Bob,35,Surgery,California,26/10/2017
+5,Karthi,34,General Checkup,Chennai,27/10/2017
+6,Balaji,32,Dental,Chennai,28/10/2017
+7,Rajesh,46,Eye test,Bangalore,29/10/2017
+8,Smith,26,Dental,Washington,12/10/2017
+9,Charles,32,General Checkup,NewYork,12/11/2017
+10,Mark,29,Eye test,Texas,12/11/2018
